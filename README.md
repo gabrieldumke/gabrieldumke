@@ -3,7 +3,7 @@
 
 - 🌱 Venho estudando **java, springboot e reactnative.**
 
-- ⚡ Curiosidade **Tomo em média 7 xícaras (cheias) de café por dia**
+- ⚡ Curiosidades **- Tomo em média 7 xícaras (cheias) de café por dia.<br>- Prefiro a linguagem java por ser a mais desafiadora pra mim. <br>- Adoro estar com meus amigos e familiares.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
