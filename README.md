@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋, Seja bem-vindo. Me chamo Gabriel</h1>
 <h3 align="center">Mobile Student | Passionate for Java ☕</h3>
 
-- 🌱 Venho estudando **java, springboot e reactnative.**
+- 🌱 Venho estudando **cybersegurança, java e springboot.**
 
 - ⚡ Curiosidades **- Tomo em média 7 xícaras (cheias) de café por dia.<br>- Prefiro a linguagem java por ser a mais desafiadora pra mim. <br>- Adoro estar com meus amigos e familiares.** 
 
