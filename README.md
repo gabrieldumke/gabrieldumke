@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, Seja bem-vindo. Me chamo Gabriel</h1>
-<h3 align="center">Mobile Student | Passionate for Java ☕</h3>
+<h3 align="center">Java Student | Passionate for Java ☕</h3>
 
 - 🌱 Venho estudando **cybersegurança, java e springboot.**
 
